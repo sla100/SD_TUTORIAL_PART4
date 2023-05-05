@@ -4,7 +4,7 @@
   "description": "This is the source code for the tutorial located here:\r http://rjhcoding.com/avrc-sd-interface-4.php",
   "type": "module",
   "scripts": {
-    "dev": "node --loader=tsx ./src/make.ts"
+    "make": "node --loader=tsx ./src/make.ts"
   },
   "keywords": [],
   "author": "",
