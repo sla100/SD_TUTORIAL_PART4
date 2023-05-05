@@ -1,0 +1,16 @@
+{
+  "name": "sd_tutorial_part4",
+  "version": "1.0.0",
+  "description": "This is the source code for the tutorial located here:\r http://rjhcoding.com/avrc-sd-interface-4.php",
+  "type": "module",
+  "scripts": {
+    "dev": "node --loader=tsx ./src/make.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.16.3",
+    "tsx": "^3.12.7"
+  }
+}

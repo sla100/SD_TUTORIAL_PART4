@@ -1,6 +1,2 @@
-/main.eep
-/main.elf
-/main.hex
-/main.map
-/*.lst
-/*.o
+/node_modules/
+/dist/
